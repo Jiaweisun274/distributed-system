@@ -1,0 +1,20 @@
+{
+    "user1": {
+        "Math Quiz": true,
+        "Capital Cities": false,
+        "Science Trivia": false,
+        "Historical Facts": false,
+        "Popular Culture": false,
+        "Computer Basics": false,
+        "Sports Knowledge": false
+    },
+    "user2": {
+        "Math Quiz": false,
+        "Capital Cities": false,
+        "Science Trivia": false,
+        "Historical Facts": false,
+        "Popular Culture": false,
+        "Computer Basics": false,
+        "Sports Knowledge": false
+    }
+}
